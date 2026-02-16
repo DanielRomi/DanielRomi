@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "DR : {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
@@ -26,7 +26,7 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
+  "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
